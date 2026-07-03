@@ -81,7 +81,7 @@ La documentación técnica completa está disponible en:
 
 ## Configuración VPN
 
-El archivo de configuración completo está disponible en [`Route-Based`](https://claude.ai/chat/Route-Based). Bloques clave:
+El archivo de configuración completo está disponible en [`Route-Based`](Route-Based). Bloques clave:
 
 **IKEv2 (proposal + policy + keyring + profile):**
 
